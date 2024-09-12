@@ -1,0 +1,64 @@
+{
+  "question": [
+    {
+      "id": "9e43",
+      "question": "What is Java?",
+      "options": [
+        "Programming Language",
+        "OOPS",
+        "Object Oriented Programming Language",
+        "Scripting language"
+      ],
+      "correct": "Object Oriented Programming Language",
+      "category": "Java"
+    },
+    {
+      "id": "8992",
+      "question": "What is my name?",
+      "options": [
+        "Sweta",
+        "Ajanur",
+        "Jyotish",
+        "Gitika"
+      ],
+      "correct": "Sweta",
+      "category": "DSA"
+    },
+    {
+      "id": "3069",
+      "question": "what is the capital of India",
+      "options": [
+        "Assam",
+        "Delhi",
+        "gashag",
+        "whdjshd"
+      ],
+      "correct": "Delhi",
+      "category": "DSA"
+    },
+    {
+      "id": "d37b",
+      "question": "tell me about yourself",
+      "options": [
+        "animal",
+        "human",
+        "alien",
+        "thing"
+      ],
+      "correct": "human",
+      "category": "Java"
+    },
+    {
+      "id": "06f6",
+      "question": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct": "",
+      "category": ""
+    }
+  ]
+}

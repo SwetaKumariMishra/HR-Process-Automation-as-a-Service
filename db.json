@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "sweta",
+      "email": "mishrasweta1001@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "gitika",
+      "email": "gitika@gmail.com",
+      "password": "qwerty",
+      "confirmPassword": "qwerty"
+    },
+    {
+      "id": "inzemam",
+      "email": "inzemamulh111@gmail.com",
+      "password": "Nasima@00",
+      "confirmPassword": "Nasima@00"
+    }
+  ]
+}
